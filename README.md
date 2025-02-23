@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jnh&label=Profile%20views&color=0e75b6&style=flat" alt="jnh" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Golang**
 
 - 📫 How to reach me **jamalhamzaei10@gmail.com**
 
